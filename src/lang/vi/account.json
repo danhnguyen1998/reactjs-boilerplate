@@ -1,0 +1,43 @@
+{
+  "login": {
+    "title": "DanceSport",
+    "subtitle": "Bước nhảy của nghệ thuật và thể thao",
+    "userName": "Tài khoản",
+    "password": "Mật khẩu",
+    "signin": "Đăng nhập",
+    "message": {
+      "username": "Tên đăng nhập không được để trống",
+      "password": "Mật khẩu không được để trống"
+    },
+    "toast": {
+      "success": "Đăng nhập thành công!",
+      "error": "Hệ thống đang xảy ra lỗi!"
+    }
+  },
+  "register": {
+    "title": "DanceSport",
+    "subtitle": "Bước nhảy của nghệ thuật và thể thao",
+    "fullName": "Họ tên",
+    "userName": "Tên đăng nhập",
+    "password": "Mật khẩu",
+    "rePassword": "Xác nhận khẩu",
+    "phone": "Số điện thoại",
+    "email": "E-mail",
+    "club": "Đơn vị",
+    "signup": "Đăng ký",
+    "message": {
+      "fullname": "Họ tên không được để trống",
+      "username": "Tên đăng nhập không được để trống",
+      "password": "Mật khẩu không được để trống",
+      "rePassword": "Xác nhận mật khẩu không được để trống",
+      "comparePassword": "Xác nhận không đúng mật khẩu ở trên",
+      "email": "Email không được để trống",
+      "phone": "Số điện thoại không được để trống",
+      "club": "Đơn vị không được để trống"
+    },
+    "toast": {
+      "success": "Chúc mừng bạn đã đăng ký thành công!",
+      "error": "Hệ thống đang lỗi!"
+    }
+  }
+}

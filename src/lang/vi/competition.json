@@ -1,0 +1,24 @@
+{
+  "name": "Tên nội dung",
+  "code": "Mã",
+  "danceType": "Loại nhảy",
+  "dance": "Điệu nhảy",
+  "rank": "Hạng",
+  "age": "Tuổi",
+  "type": "Hình thức",
+  "titleEdit": "Sửa nội dung thi đấu",
+  "titleAdd": "Thêm nội dung thi đấu",
+  "message": {
+    "nameVI": "Tên nội dung không được để trống",
+    "code": "Mã không được để trống",
+    "danceType": "Loại nhảy không được để trống",
+    "dance": "Điệu nhảy không được để trống",
+    "rank": "Hạng không được để trống",
+    "age": "Tuổi không được để trống"
+  },
+  "titleDel": "Xóa nội dung thi đấu",
+  "contentDel": "Có chắc chắn muốn xóa nội dung thi đấu không?",
+  "btn": {
+    "search": "Tìm kiếm theo nội dung thi đấu"
+  }
+}

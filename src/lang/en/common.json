@@ -1,0 +1,15 @@
+{
+  "customer": {
+    "menu": {
+      "title": "DanceSport",
+      "home": "Home",
+      "competitionSignup": "Competition sign-up",
+      "register": "Register",
+      "signin": "Login"
+    }
+  },
+  "exception": {
+    "404": "Sorry, the page you visited does not exist.",
+    "backHome": "Back Home"
+  }
+}

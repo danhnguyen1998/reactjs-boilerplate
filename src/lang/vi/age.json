@@ -1,0 +1,30 @@
+{
+  "table": {
+    "title": {
+      "name": "Tên",
+      "singleStartAge": "Độ tuổi",
+      "singleEndAge": "Đến",
+      "nameVI": "Vietnamese",
+      "nameEN": "English",
+      "totalAge": "Tổng tuổi",
+      "minTotalAge": "Từ"
+    }
+  },
+  "searchText": "Tìm kiếm theo tên",
+  "titleDel": "Xóa quy định độ tuổi",
+  "contentDel": "Có chắc chắn muốn xóa quy định độ tuổi không?",
+  "form": {
+    "titleAddNew": "Thêm quy định về tuổi",
+    "titleUpdate": "Sửa quy định về tuổi",
+    "addNewBtn": "Thêm quy định tuổi",
+    "message": {
+      "nameVI": "Vietnamese không được trống",
+      "nameEN": "English không được trống",
+      "singleStartAge": "Từ không được trống",
+      "singleEndAge": "Đến không được trống",
+      "totalAge": "Tổng tuổi không được trống",
+      "startLargeEnd": "Từ không được lớn hơn đến",
+      "startLessEnd": "Đến không được nhỏ hơn từ"
+    }
+  }
+}

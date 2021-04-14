@@ -1,0 +1,69 @@
+{
+  "customer": {
+    "menu": {
+      "title": "DanceSport",
+      "home": "Trang chủ",
+      "competitionSignup": "Đăng ký thi đấu",
+      "register": "Đăng ký",
+      "signin": "Đăng nhập"
+    }
+  },
+  "manager": {
+    "menu": {
+      "title": "DanceSport",
+      "home": "Trang chủ",
+      "categories": "Hệ thống danh mục",
+      "categoriesClub": "Câu lạc bộ",
+      "categoriesType": "Hình thức thi đấu (Lệ phí)",
+      "categoriesAge": "Quy định độ tuổi",
+      "categoriesDanceTypes": "Loại điệu nhảy",
+      "categoriesDance": "Điệu nhảy",
+      "categoriesLevel": "Hạng thi đấu",
+      "categoriesAccount": "Tài khoản đơn vị",
+      "settingUser": "Hồ sơ người dùng",
+      "tournaments": "Giải đấu",
+      "tournamentsAdd": "Tạo giải đấu",
+      "contentCompetition": "Nội dung thi đấu",
+      "managingAthletes": "Vận động viên",
+      "logout": "Đăng xuất"
+    }
+  },
+  "exception": {
+    "404": "Xin lỗi, trang bạn truy cập không tồn tại",
+    "backHome": "Quay lại trang chủ"
+  },
+  "action": {
+    "search": "Tìm kiếm",
+    "remove": "Xóa",
+    "add": "Thêm mới",
+    "edit": "Sửa",
+    "active": "Kích hoạt tài khoản"
+  },
+  "notification": {
+    "success": "Thành công",
+    "error": "Lỗi",
+    "warning": "Cảnh báo",
+    "info": "Thông tin",
+    "deleteSuccess": "Xóa bản ghi thành công!",
+    "deleteError": "Xóa bản ghi thất bại!!",
+    "addSucc": "Thêm mới dữ liệu thành công!",
+    "addError": "Thêm mới dữ liệu thất bại!",
+    "updateSucc": "Cập nhật dữ liệu thành công!",
+    "updateError": "Cập nhật dữ liệu thất bại!",
+    "loadDataError": "Có lỗi xảy ra trong quá trình tải dữ liệu!"
+  },
+  "news": {
+    "loadingTitle": "Đang tải",
+    "loadMore": "Tải thêm"
+  },
+  "button": {
+    "saveButton": "Lưu",
+    "okButton": "Đồng ý",
+    "cancelButton": "Đóng"
+  },
+  "active": "Hoạt Động",
+  "block": "Khóa",
+  "vnd": "VNĐ",
+  "usd": "USD",
+  "noData": "Không có dữ liệu"
+}

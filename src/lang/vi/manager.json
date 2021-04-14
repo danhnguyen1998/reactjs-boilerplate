@@ -1,0 +1,122 @@
+{
+  "danceTypes": {
+    "titleDel": "Xóa loại điệu nhảy",
+    "contentDel": "Có chắc chắn muốn xóa loại điệu nhảy không?",
+    "name": "Loại điệu nhảy",
+    "titleModalEdit": "Sửa loại điệu nhảy",
+    "titleModalAdd": "Thêm loại điệu nhảy",
+    "message": {
+      "name": "Tên loại không được để trống",
+      "code": "Mã không được để trống"
+    },
+    "titleAdd": "Thêm loại điệu nhảy",
+    "titleEdit": "Sửa loại điệu nhảy",
+    "btnSearch": "Tìm kiếm theo tên loại"
+  },
+  "dance": {
+    "name": "Tên điệu",
+    "idKindOfDance": "Loại điệu nhảy",
+    "code": "Ký hiệu",
+    "type": "Loại",
+    "titleEdit": "Sửa điệu nhảy",
+    "titleAdd": "Thêm điệu nhảy",
+    "message": {
+      "nameVI": "Tên điệu không được để trống",
+      "nameEN": "Tên điệu (Tiếng Anh) không được để trống",
+      "code": "Ký hiệu không được để trống",
+      "idKindOfDance": "Loại điệu nhảy không được để trống"
+    },
+    "titleDel": "Xóa điệu nhảy",
+    "contentDel": "Có chắc chắn muốn xóa điệu nhảy không?",
+    "btnSearch": "Tìm kiếm theo tên điệu, kí hiệu"
+  },
+  "level": {
+    "name": "Tên hạng",
+    "idKindOfDance": "Loại điệu nhảy",
+    "idDances": "Điệu nhảy",
+    "type": "Loại",
+    "titleEdit": "Sửa hạng thi đấu",
+    "titleAdd": "Thêm hạng thi đấu",
+    "message": {
+      "nameVI": "Tên hạng không được để trống",
+      "idKindOfDance": "Loại điệu nhảy không được để trống",
+      "idDances": "Điệu nhảy không được để trống"
+    },
+    "titleDel": "Xóa hạng thi đấu",
+    "contentDel": "Có chắc chắn muốn xóa hạng thi đấu không?",
+    "btnSearch": "Tìm kiếm theo tên hạng"
+  },
+  "types": {
+    "name": "Hình thức thi đấu",
+    "fees": "Lệ phí",
+    "currency": "Tiền tệ",
+    "titleEdit": "Sửa hình thức thi đấu",
+    "titleAdd": "Thêm hình thức thi đấu",
+    "message": {
+      "nameVI": "Tên hình thức thi đấu không được để trống",
+      "fees": "Lệ phí không được để trống"
+    },
+    "titleDel": "Xóa hình thức thi đấu",
+    "contentDel": "Có chắc chắn muốn xóa hình thức thi đấu không?",
+    "amount": {
+      "notNumber": "Lệ phí phải là số"
+    },
+    "btn": {
+      "search": "Tìm kiếm theo hình thức thi đấu"
+    }
+  },
+  "club": {
+    "nameVi": "Tên đơn vị (Tiếng Việt)",
+    "nameEng": "Tên đơn vị (Tiếng Anh)",
+    "addressVi": "Địa chỉ (Tiếng Việt)",
+    "addressEng": "Địa chỉ (Tiếng Anh)",
+    "contactPerson": "Người liên hệ",
+    "phone": "Số điện thoại",
+    "email": "Email",
+    "titleModalEdit": "Sửa đơn vị",
+    "titleModalAdd": "Thêm đơn vị",
+    "message": {
+      "name": "Tên đơn vị không được để trống"
+    },
+    "titleDel": "Xóa đơn vị",
+    "contentDel": "Có chắc chắn muốn xóa đơn vị không?"
+  },
+  "account": {
+    "name": "Tên",
+    "userName": "Tên đăng nhập",
+    "address": "Địa chỉ",
+    "contactPerson": "Người liên hệ",
+    "phone": "Số điện thoại",
+    "email": "Email",
+    "role": "Loại tài khoản",
+    "titleEdit": "Sửa tài khoản",
+    "titleAdd": "Thêm tài khoản",
+    "organizer": "Người tổ chức",
+    "member": "Thành viên/CLB",
+    "unitWork": "Tên",
+    "status": "Trạng thái",
+    "message": {
+      "nameVI": "Tên tài khoản không được để trống",
+      "addressVI": "Địa chỉ không được để trống",
+      "contactPerson": "Người liên hệ không được để trống",
+      "phone": "Số điện thoại không được để trống",
+      "email": "Email không đúng định dạng",
+      "userName": "Tên đăng nhập không được để trống",
+      "role": "Loại tài khoản không được để trống",
+      "unitWork": "Tên không được để trống"
+    },
+    "titleDel": "Xóa tài khoản",
+    "contentDel": "Có chắc chắn muốn xóa tài khoản không?",
+    "btnSearch": "Tìm kiếm theo tên, email, số điện thoại"
+  },
+  "tournaments": {
+    "list": {
+      "createdAt": "Thời gian",
+      "name": "Tên giải đấu",
+      "address": "Địa điểm",
+      "description": "Nội dung chi tiết",
+      "active": "Kích hoạt"
+    },
+    "addNew": "Tạo giải đấu"
+  }
+}
